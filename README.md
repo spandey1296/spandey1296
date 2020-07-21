@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there It's me SHIVANT KUMAR PANDEY👋
 
-<!--
-**spandey1296/spandey1296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/spandey1296/spandey1296.svg)](http://hits.dwyl.com/spandey1296/spandey1296)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web application projects using Django and python and other side uisng JSP and hibernate.
+- 🌱 I’m currently learning Sprinigboot java framework.
+- 👯 I’m looking to collaborate on machine leaning and data science project.
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+
+
+
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](
+https://www.youtube.com/channel/UCLQMdDxySQP23-DGgtpeJqQ?view_as=subscriber<VIDEO ID>)
+
+
+
+
+
+
+
+
+
+
+
+I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and update with modern tools helping our lives more easier.
+
+Happy coding !!
