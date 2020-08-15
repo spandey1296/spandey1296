@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.com/spandey1296/spandey1296.svg)](http://hits.dwyl.com/spandey1296/spandey1296)
 
 
-- 🔭 I’m currently working on web application projects using Django and python and other side uisng JSP and hibernate.
+- 🔭 I’m currently working on web application projects using Django and python and other side using JSP and hibernate.
 - 🌱 I’m currently learning Sprinigboot java framework.
 - 👯 I’m looking to collaborate on machine leaning and data science project.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
