@@ -52,7 +52,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296&layout=compact&hide=html" alt="spandey1296" /></p><br><br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=spandey1296&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/spandey1296)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=spandey1296&show_icons=true)  
+
+
+
+
+
+
 
 <br><br>
 I strongly believe we the professionals of the tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and update with modern tools helping our lives easier. I am also interested in travel, innovation, and volunteering and Experienced designing and developing software for business solutions, Software engineer with experience in multiple settings can design and develop programs using the latest and most appropriate technology. I am a technology enthusiast who loves to do creative things and learn new updates in the technology field and upgrade my skills. I love challenging myself as an engineer and like to develop applications that can benefit society.  <br><br>
