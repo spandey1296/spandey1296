@@ -1,11 +1,11 @@
 <h1 align="center">Hi there It's me SHIVANT KUMAR PANDEY👋</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandey1296" alt="spandey1296" /> </p>
 
 
 - 🔭 I’m currently working on web application projects using JSP and hibernate.
-- 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Machine Learning**.
+- 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.
 - 👯 I’m looking to collaborate on java web project and data science project.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 - 🔭 I’m currently working on **Shopping app and twitter clone**
