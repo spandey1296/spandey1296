@@ -6,11 +6,13 @@
 
 - 🔭 I’m currently working on web application projects using JSP and hibernate.
 - 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.
-- 👯 I’m looking to collaborate on java web project and data science project.
+- 👯 I’m looking to collaborate on java web project.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 - 🔭 I’m currently working on **Shopping app and twitter clone**
-
-- 👯 I’m looking to collaborate on **Django Application**
+-👯 I’m looking to collaborate on any Android Projects
+-🤔 I'm looking for help to improve my competitive programming skills
+-🔭 I’m currently working to learn advanced android skills
+-⚡ Fun fact: Coding over songs else find me active on social media.
 
 - 👨‍💻 All of my projects are available at [https://github.com/spandey1296](https://github.com/spandey1296)
 
