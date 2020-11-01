@@ -3,16 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandey1296" alt="spandey1296" /> </p>
 
+<p align="right"> <img src="https://user-images.githubusercontent.com/50301680/97795237-bfadb000-1c29-11eb-9720-04dc0c335f76.gif" width="250px" height="250px" alt="spandey1296" /> </p>
 
 - 🔭 I’m currently working on web application projects using JSP and hibernate.
-- 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.
-- 👯 I’m looking to collaborate on java web project.
-- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
-- 🔭 I’m currently working on **Shopping app and twitter clone**
--👯 I’m looking to collaborate on any Android Projects
--🤔 I'm looking for help to improve my competitive programming skills
--🔭 I’m currently working to learn advanced android skills
--⚡ Fun fact: Coding over songs else find me active on social media.
+- 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.<br>
+- 👯 I’m looking to collaborate on java web project.<br>
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds<br>
+- 🔭 I’m currently working on **Shopping app and twitter clone**<br>
+-👯 I’m looking to collaborate on any Android Projects<br>
+-🤔 I'm looking for help to improve my competitive programming skills<br>
+-🔭 I’m currently working to learn advanced android skills<br>
+-⚡ Fun fact: Coding over songs else find me active on social media.<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/spandey1296](https://github.com/spandey1296)
 
