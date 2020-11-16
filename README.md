@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.<br>
 - 👯 I’m looking to collaborate on java web project.<br>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds<br>
-- 🔭 I’m currently working on **Shopping app and twitter clone**<br>
+- 🔭 I’m currently working on **Donation application **<br>
 -👯 I’m looking to collaborate on any Android Projects<br>
 -🤔 I'm looking for help to improve my competitive programming skills<br>
 -🔭 I’m currently working to learn advanced android skills<br>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/spandey1296](https://github.com/spandey1296)
 
-- 📝 I regulary write articles on [https://coder2hacker.blogspot.com/](https://coder2hacker.blogspot.com/)
+- 📝 I regulary write articles on [https://coder2hackers.blogspot.com/](https://coder2hackers.blogspot.com/)
 
 - 💬 Ask me about **Java,Python,Web Developement,Wordpress,AWS,DBMS,DS&Algo,CN,Linux,Android**
 
