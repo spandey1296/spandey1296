@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on web application projects using JSP and hibernate.
 - 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.<br>
 - 👯 I’m looking to collaborate on java web project.<br>
-- 🧗🏾‍♀️ I try to: Go beyond and push the bounds<br>
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potentials<br>
 - 🔭 I’m currently working on **Donation application **<br>
 -👯 I’m looking to collaborate on any Android Projects<br>
 -🤔 I'm looking for help to improve my competitive programming skills<br>
@@ -64,7 +64,7 @@
 
 
 <br><br>
-I strongly believe we the professionals of the tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and update with modern tools helping our lives easier. I am also interested in travel, innovation, and volunteering and Experienced designing and developing software for business solutions, Software engineer with experience in multiple settings can design and develop programs using the latest and most appropriate technology. I am a technology enthusiast who loves to do creative things and learn new updates in the technology field and upgrade my skills. I love challenging myself as an engineer and like to develop applications that can benefit society.  <br><br>
+I strongly believe we the professionals of the tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer and designer. I love trying out new technologies and update with modern tools helping our lives easier. I am also interested in travel, innovation, and volunteering and Experienced designing and developing software for business solutions, Software engineer with experience in multiple settings can design and develop programs using the latest and most appropriate technology. I am a technology enthusiast who loves to do creative things and learn new updates in the technology field and upgrade my skills. I love challenging myself as an engineer and like to develop applications that can benefit society. I am passonate about the app development. <br><br>
 
 Happy coding !!
 
