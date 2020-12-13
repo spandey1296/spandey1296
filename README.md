@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandey1296" alt="spandey1296" /> </p>
 
-<p align="right"> <img src="https://user-images.githubusercontent.com/50301680/97795237-bfadb000-1c29-11eb-9720-04dc0c335f76.gif" width="250px" height="250px" alt="spandey1296" /> </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
 - 🔭 I’m currently working on web application projects using JSP and hibernate.
 - 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.<br>
