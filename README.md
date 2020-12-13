@@ -57,7 +57,10 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=spandey1296)  
 
-
+# My Absolute Favorites:<br>
+💻   I love exploring new tech stack and building cool stuffs.<br>
+📰   Reading & writing tech blogs whenever possible.<br>
+🍕   Hackathons, meetups & tech events.<br>
 
 
 
