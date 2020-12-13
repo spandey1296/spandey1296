@@ -1,6 +1,8 @@
 <h1 align="center">Hi there It's me SHIVANT KUMAR PANDEY👋</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+![Downloads](https://img.shields.io/github/downloads/spandey1296/spandey1296/total) ![Contributors](https://img.shields.io/github/contributors/spandey1296/spandey1296?color=dark-green) ![Forks](https://img.shields.io/github/forks/spandey1296/spandey1296?style=social) ![Stargazers](https://img.shields.io/github/stars/spandey1296/spandey1296?style=social) ![Issues](https://img.shields.io/github/issues/spandey1296/spandey1296) ![License](https://img.shields.io/github/license/spandey1296/spandey1296) 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandey1296" alt="spandey1296" /> </p>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
