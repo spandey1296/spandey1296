@@ -1,5 +1,5 @@
 <h1 align="center">Hi there It's me SHIVANT KUMAR PANDEY👋</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ![Downloads](https://img.shields.io/github/downloads/spandey1296/spandey1296/total) ![Contributors](https://img.shields.io/github/contributors/spandey1296/spandey1296?color=dark-green) ![Forks](https://img.shields.io/github/forks/spandey1296/spandey1296?style=social) ![Stargazers](https://img.shields.io/github/stars/spandey1296/spandey1296?style=social) ![Issues](https://img.shields.io/github/issues/spandey1296/spandey1296) ![License](https://img.shields.io/github/license/spandey1296/spandey1296) 
 
@@ -7,14 +7,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
-- 🔭 I’m currently working on web application projects using JSP and hibernate.
-- 🌱 I’m currently learning  **AWS,Springboot,Data Structure,Web application**.<br>
-- 👯 I’m looking to collaborate on java web project.<br>
+- 🔭 I’m currently working android game project.
+- 🌱 I’m currently learning  **AWS,Springboot & Data Structure**.<br>
+- 👯 I’m looking to collaborate on Aws project<br>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potentials<br>
-- 🔭 I’m currently working on **Donation application **<br>
--👯 I’m looking to collaborate on any Android Projects<br>
+- 🔭 I’m currently working on **Donation Web Application**<br>
 -🤔 I'm looking for help to improve my competitive programming skills<br>
--🔭 I’m currently working to learn advanced android skills<br>
+-🔭 I’m currently exploring advanced android development skills<br>
 -⚡ Fun fact: Coding over songs else find me active on social media.<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/spandey1296](https://github.com/spandey1296)
@@ -73,7 +72,7 @@ I strongly believe we the professionals of the tech industry need to learn and i
 
 Happy coding !!
 
-<h3><strong>connect with me!</strong></h3><br><br>
+<h3 ><strong style="text-align:center">connect with me!</strong></h3><br><br>
 
 <p align="center">
 <a href="https://twitter.com/shivant9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shivant9" height="30" width="30" /></a>
