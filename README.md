@@ -75,7 +75,7 @@ GeeksforGeeks           -  [Check out!](https://auth.geeksforgeeks.org/user/shiv
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=spandey1296)  
 
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=spandey1296) 
 
 
 ### My Projects ✨:
