@@ -100,9 +100,22 @@ GeeksforGeeks           -  [Check out!](https://auth.geeksforgeeks.org/user/shiv
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spandey1296&repo=Unityforlife&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/spandey1296/Letsupgrade-AWS">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spandey1296&repo=Letsupgrade-AWS&theme=tokyonight" />
+<a href="https://github.com/spandey1296/Todo-app.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spandey1296&repo=Todo-app&theme=tokyonight" />
 </a>
+
+
+<a href="https://github.com/spandey1296/JPMorganChase-Virtual-Internship.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spandey1296&repo=JPMorganChase-Virtual-Internship&theme=tokyonight" />
+</a>
+
+
+<a href="https://github.com/spandey1296/ML_Algorithm_Cord.git">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=spandey1296&repo=ML_Algorithm_Cord&theme=tokyonight" />
+</a>
+
+
+
 
 
 # My Absolute Favorites:<br>
