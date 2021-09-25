@@ -1,5 +1,5 @@
 <h1 align="center">Hi there It's me SHIVANT KUMAR PANDEY👋</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer From India</h3>
 
 ![Downloads](https://img.shields.io/github/downloads/spandey1296/spandey1296/total) ![Contributors](https://img.shields.io/github/contributors/spandey1296/spandey1296?color=dark-green) ![Forks](https://img.shields.io/github/forks/spandey1296/spandey1296?style=social) ![Stargazers](https://img.shields.io/github/stars/spandey1296/spandey1296?style=social) ![Issues](https://img.shields.io/github/issues/spandey1296/spandey1296) ![License](https://img.shields.io/github/license/spandey1296/spandey1296) 
 
@@ -7,13 +7,13 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
-- 🔭 I’m currently working android game project.
-- 🌱 I’m currently learning  **AWS,Springboot & Data Structure**.<br>
-- 👯 I’m looking to collaborate on Aws project<br>
-- 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potentials<br>
-- 🔭 I’m currently working on **Donation Web Application**<br>
+- 🔭 I’m currently working on poker and rummy games.
+- 🌱 I’m currently learning  **AWS, Typescript, Mocha testing & Data Structure**.<br>
+- 👯 I’m looking to collaborate on android and web based games project.<br>
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potentials.<br>
+- 🔭 I’m currently working on **Payment Gateway for Single wallet system**<br>
 -🤔 I'm looking for help to improve my competitive programming skills<br>
--🔭 I’m currently exploring advanced android development skills<br>
+-🔭 I’m currently exploring game development skills.<br>
 -⚡ Fun fact: Coding over songs else find me active on social media.<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/spandey1296](https://github.com/spandey1296)
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **shivant47@gmail.com**
 
-- ⚡ Fun fact **Learn and share knowledge among Students**
+- ⚡ Passion **coding and Learning and share knowledge among Students**
 
 - ⚡ I'm Mentor for  the students at Shiksha Ask&Answer Platform : [Mentor at shiksha!](https://www.shiksha.com/userprofile/11751401)
 
