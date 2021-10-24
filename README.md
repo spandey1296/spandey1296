@@ -60,7 +60,7 @@ GeeksforGeeks           -  [Check out!](https://auth.geeksforgeeks.org/user/shiv
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=spandey1296)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296&langs_count=100&theme=tokyonight")](https://github-readme-stats.vercel.app/api/top-langs/?username=spandey1296&langs_count=100&theme=tokyonight")<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=spandey1296&show_icons=true&count_private=true)  
 
