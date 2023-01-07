@@ -1,5 +1,5 @@
-<h1 align="center">Hi there It's me SHIVANT KUMAR PANDEY👋</h1>
-<h3 align="center">A passionate Full Stack Developer From India</h3>
+<h1 align="center">Hi there It's me Shivant Kumar Pandey👋</h1>
+<h3 align="center">A passionate software Engineer From India</h3>
 
 ![Downloads](https://img.shields.io/github/downloads/spandey1296/spandey1296/total) ![Contributors](https://img.shields.io/github/contributors/spandey1296/spandey1296?color=dark-green) ![Forks](https://img.shields.io/github/forks/spandey1296/spandey1296?style=social) ![Stargazers](https://img.shields.io/github/stars/spandey1296/spandey1296?style=social) ![Issues](https://img.shields.io/github/issues/spandey1296/spandey1296) ![License](https://img.shields.io/github/license/spandey1296/spandey1296) 
 
