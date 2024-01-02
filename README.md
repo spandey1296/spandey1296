@@ -7,11 +7,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
 
-- 🔭 I’m currently working on poker and rummy games.
-- 🌱 I’m currently learning  **AWS, Typescript, Mocha testing & Data Structure**.<br>
-- 👯 I’m looking to collaborate on android and web based games project.<br>
+- 🔭 I’m currently working on GenAI ML Algorithm.
+- 🌱 I’m currently learning  **AWS, GraphQl, Date Warehouse and Automation of System**.<br>
+- 👯 I’m looking to collaborate on AI and ML and web based games project.<br>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds and explore your potentials.<br>
-- 🔭 I’m currently working on **Payment Gateway for Single wallet system**<br>
+- 🔭 I’m currently working on **Blockchain for Payment Gateway Features**<br>
 -🤔 I'm looking for help to improve my competitive programming skills<br>
 -🔭 I’m currently exploring game development skills.<br>
 -⚡ Fun fact: Coding over songs else find me active on social media.<br>
@@ -20,7 +20,7 @@
 
 - 📝 I regulary write articles on [https://coder2hackers.blogspot.com/](https://coder2hackers.blogspot.com/)
 
-- 💬 Ask me about **Java,Python,Web Developement,Wordpress,AWS,DBMS,DS&Algo,CN,Linux,Android**
+- 💬 Ask me about **Cloud- AWS, Java,Python,Web Developement,Wordpress,AWS,DBMS,DS&Algo,CN,Linux,Android**
 
 - 📫 How to reach me **shivant47@gmail.com**
 
